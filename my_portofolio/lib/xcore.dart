@@ -1,0 +1,1 @@
+const url = 'https://lottie.host/94c6df6e-b6e6-41ae-a47d-ea5a79e67e88/b9XAHEixXL.json';
